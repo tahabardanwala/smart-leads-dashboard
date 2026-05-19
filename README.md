@@ -59,11 +59,11 @@ Smart Leads Dashboard is a clean, modern internship assignment project designed 
 ### 2. Environment Setup
 Create a `.env` file in the root:
 ```env
-PORT=3000
+PORT=5000
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_secure_secret
 NODE_ENV=development
-VITE_API_URL=http://localhost:3000/api
+VITE_API_URL=http://localhost:5000/api
 ```
 
 ### 3. Install & Run
