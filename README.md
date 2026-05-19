@@ -24,6 +24,12 @@ Smart Leads Dashboard is a clean, modern internship assignment project designed 
 - **Backend**: Node.js, Express, TypeScript, Mongoose, JWT.
 - **Database**: MongoDB Atlas.
 - **Deployment**: Vercel (Frontend), Render (Backend).
+## 📸 Screenshots
+- <img width="1920" height="925" alt="login-page" src="https://github.com/user-attachments/assets/c73d2a0a-8b3e-434a-9038-63753102c6bd" />
+- <img width="1920" height="903" alt="lead-form" src="https://github.com/user-attachments/assets/ff1350dc-4146-49fb-8342-f787254354b4" />
+- <img width="1920" height="895" alt="dashboard" src="https://github.com/user-attachments/assets/1fc3329c-048b-4f09-be08-5526c516af9a" />
+- <img width="1920" height="915" alt="advanced-filters" src="https://github.com/user-attachments/assets/764ef48d-ece5-4a52-88c2-e65acb366d6f" />
+
 
 ## 📁 Folder Structure
 ```text
