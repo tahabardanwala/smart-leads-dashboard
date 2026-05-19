@@ -108,4 +108,4 @@ docker-compose up --build
 - Email: tahabardanwala53@gmail.com
 
 ---
-*Developed as an internship evaluation project focusing on clean code and professional standards.*
+*Developed as an evaluation project focusing on clean code and professional standards.*
