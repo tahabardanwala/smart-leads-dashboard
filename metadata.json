@@ -1,0 +1,6 @@
+{
+  "name": "Smart Leads Dashboard",
+  "description": "Professional MERN stack lead management system with Role-Based Access Control, standardized API responses, and advanced filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
